@@ -14,7 +14,7 @@ return (
             <div className="about__data">
                 <Info />
                 <p className="about__description">
-                    I create applications highlighting minimal design and friendly UI/UX interfaces.
+                a strong focus on both theoretical and practical aspects of information systems and data science
                 </p>
                 <a download="" href={CV} className="button button--flex">
                     Download CV

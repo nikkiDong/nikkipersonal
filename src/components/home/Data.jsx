@@ -59,7 +59,7 @@ const Data = () => {
             Developer + Designer
         </h3>
         <p className="home__description">
-            Front-end developer dedicated to design and creative solutions.
+        I am Yimeng Dong, an aspiring MIS student with a strong focus on AI and data science, currently exploring innovative solutions at the intersection of technology and real-world challenges.
         </p>
 
         <a href="#contact" className="button button--flex">
